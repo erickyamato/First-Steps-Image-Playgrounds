@@ -11,7 +11,12 @@ import SwiftUI
 struct Image_Playgrounds_ExampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationView {
+                List {
+                    NavigationLink("TextConceptView", destination: TextConceptView())
+                    NavigationLink("CustomView", destination: ContentView())
+                }
+            }
         }
     }
 }
