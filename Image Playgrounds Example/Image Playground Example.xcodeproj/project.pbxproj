@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		ADC2A9F42FBDF1B400C82195 /* Image Playgrounds Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image Playgrounds Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ADC2A9F42FBDF1B400C82195 /* Image Playground Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Image Playground Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -40,7 +40,7 @@
 		ADC2A9F52FBDF1B400C82195 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				ADC2A9F42FBDF1B400C82195 /* Image Playgrounds Example.app */,
+				ADC2A9F42FBDF1B400C82195 /* Image Playground Example.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		ADC2A9F32FBDF1B400C82195 /* Image Playgrounds Example */ = {
+		ADC2A9F32FBDF1B400C82195 /* Image Playground Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = ADC2A9FF2FBDF1B500C82195 /* Build configuration list for PBXNativeTarget "Image Playgrounds Example" */;
+			buildConfigurationList = ADC2A9FF2FBDF1B500C82195 /* Build configuration list for PBXNativeTarget "Image Playground Example" */;
 			buildPhases = (
 				ADC2A9F02FBDF1B400C82195 /* Sources */,
 				ADC2A9F12FBDF1B400C82195 /* Frameworks */,
@@ -63,11 +63,11 @@
 			fileSystemSynchronizedGroups = (
 				ADC2A9F62FBDF1B400C82195 /* Image Playgrounds Example */,
 			);
-			name = "Image Playgrounds Example";
+			name = "Image Playground Example";
 			packageProductDependencies = (
 			);
 			productName = "Image Playgrounds Example";
-			productReference = ADC2A9F42FBDF1B400C82195 /* Image Playgrounds Example.app */;
+			productReference = ADC2A9F42FBDF1B400C82195 /* Image Playground Example.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = ADC2A9EF2FBDF1B400C82195 /* Build configuration list for PBXProject "Image Playgrounds Example" */;
+			buildConfigurationList = ADC2A9EF2FBDF1B400C82195 /* Build configuration list for PBXProject "Image Playground Example" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				ADC2A9F32FBDF1B400C82195 /* Image Playgrounds Example */,
+				ADC2A9F32FBDF1B400C82195 /* Image Playground Example */,
 			);
 		};
 /* End PBXProject section */
@@ -326,7 +326,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		ADC2A9EF2FBDF1B400C82195 /* Build configuration list for PBXProject "Image Playgrounds Example" */ = {
+		ADC2A9EF2FBDF1B400C82195 /* Build configuration list for PBXProject "Image Playground Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADC2A9FD2FBDF1B500C82195 /* Debug */,
@@ -335,7 +335,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		ADC2A9FF2FBDF1B500C82195 /* Build configuration list for PBXNativeTarget "Image Playgrounds Example" */ = {
+		ADC2A9FF2FBDF1B500C82195 /* Build configuration list for PBXNativeTarget "Image Playground Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				ADC2AA002FBDF1B500C82195 /* Debug */,
